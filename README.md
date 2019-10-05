@@ -1,5 +1,6 @@
 # String Exercises
 
+
 1. console.log the first character of a string.
 
 let stringg = "First";
